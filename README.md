@@ -13,4 +13,3 @@ In the app:
   Repeat the above steps to decode the message, but:
     Use the PSK from the second step
     Click 'Decode' instead of 'Encode'
-  
